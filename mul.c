@@ -1,5 +1,5 @@
 #include <stdio.h>
-void mal() {
+void mul() {
     double a, b, product;
     printf("Enter two numbers: ");
     scanf("%lf %lf", &a, &b);  
